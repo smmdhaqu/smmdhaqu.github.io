@@ -318,6 +318,9 @@ header .navbar ul li a:hover {
 .social-icons a.dev:hover {
   background-color: #070707;
 }
+.social-icons a.xing:hover {
+  background-color: #070707;
+}
 .social-icons a.instagram:hover {
   background-color: #ee00da;
 }

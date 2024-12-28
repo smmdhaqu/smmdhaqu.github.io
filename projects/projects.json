@@ -13,7 +13,7 @@
     "name": "Tic Tac Toe",
     "desc": "This is a Tic Tac Toe game Using minimax algorithm. This game playing two player one player is a Human and one player is a computer.",
     "image": "TicTacToe",
-    "category": "AI",
+    "category": "ai",
     "links": {
       "view": "https://smmdhaqu.github.io/TicTacToe/",
       "code": "https://github.com/smmdhaqu/TicTacToe"
@@ -43,7 +43,7 @@
     "name": "Motion-Primitive-Simulation",
     "desc": "There are two dices here, The player looses his current score when one of them is a 1, After that, it's the next player's turn.",
     "image": "Simulation",
-    "category": "AI",
+    "category": "ai",
     "links": {
       "view": "#",
       "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"

@@ -64,7 +64,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #ffbf00;
 }
 header .navbar ul{
   list-style: none;
@@ -335,7 +335,7 @@ header .navbar ul li a:hover{
 #scroll-top{
   position: fixed;
   top: -140%;
-  right: 2rem;
+  left: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
   background: #ffae00;

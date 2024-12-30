@@ -1,7 +1,7 @@
 [
   {
     "name": "TourDay",
-    "desc": "Tourday is a platform where people can showcase their tours, share information & experiences. Travelers can learn from other's experiences & know more about tourist places in our country",
+    "desc": "Tourday is a platform where people can showcase their tours, share information & experiences.",
     "image": "Tourday",
     "category": "basicweb",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Motion-Primitive-Simulation",
-    "desc": "There are two dices here, The player looses his current score when one of them is a 1, After that, it's the next player's turn.",
+    "desc": "The complete set of codes employed in my Bachelor's Thesis is available in this repository.",
     "image": "Simulation",
     "category": "ai",
     "links": {

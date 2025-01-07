@@ -40,16 +40,6 @@
     }
   },
   {
-    "name": "Motion-Primitive-Simulation",
-    "desc": "The complete set of codes employed in my Bachelor's Thesis is available in this repository.",
-    "image": "Simulation",
-    "category": "ai",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"
-    }
-  },
-  {
     "name": "Autonomous-Driving",
     "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
     "image": "AutonomousDriving",
@@ -57,6 +47,16 @@
     "links": {
       "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",
       "code": "https://github.com/smmdhaqu/Autonomous-Driving"
+    }
+  },
+  {
+    "name": "Motion-Primitive-Simulation",
+    "desc": "The complete set of codes employed in my Bachelor's Thesis is available in this repository.",
+    "image": "Simulation",
+    "category": "ai",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"
     }
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "DataForge: Dynamic Query and Workflow Engine",
     "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows.",
-    "image": "ImageDB",
+    "image": "DataForge",
     "category": "academic_project",
     "links": {
       "view": "#",

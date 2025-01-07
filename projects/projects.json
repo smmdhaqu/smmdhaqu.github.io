@@ -48,5 +48,55 @@
       "view": "#",
       "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"
     }
+  },
+  {
+    "name": "Autonomous-Driving",
+    "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality, and Hardware-in-the-Loop testing featuring a GUI and MQTT/OPC UA protocols for the Project Mini-ELLA.",
+    "image": "Image_Mini_ELLA",
+    "category": "professional_project",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",
+      "code": "https://github.com/smmdhaqu/Autonomous-Driving"
+    }
+  },
+  {
+    "name": "EnergyWise: Consumption and Cost Analyzer",
+    "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management, structured Data handling, and scalable multi-household features.",
+    "image": "Image_C++",
+    "category": "academic_project",
+    "links": {
+      "view": "https://drive.google.com/file/d/1se70I0RvB0exz_IBpyCGez81RD01uNH-/",
+      "code": "https://github.com/smmdhaqu/CALCULATION-OF-AVERAGE-POWER-COSTS-FOR-A-HOUSE-OPP"
+    }
+  },
+  {
+    "name": "Funding Platform",
+    "desc": "Comprehensive Project Funding platform prototype developed as part of a Software Engineering project, featuring end-to-end functionalities including funding requests, project discovery, secure donations, and lifecycle management using rigorous validation and domain-driven design principles.",
+    "image": "View_Software Engineering",
+    "category": "academic_project",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ddlj3xnKHKnZJ7Y8SSZXyS8Jbz5gZI8s/",
+      "code": "https://github.com/smmdhaqu/Project-Funding-Platform"
+    }
+  },
+  {
+    "name": "Regression Analysis",
+    "desc": "Developed two Regression Model functions to linearize complex equations and predict values and accuracy of both Models for various materials using Data-driven approaches",
+    "image": "Image_Regression Analysis",
+    "category": "academic_project",
+    "links": {
+      "view": "https://drive.google.com/file/d/1HXQm38DWi3g43cDhwt1XpanhXlgnujM5/",
+      "code": "https://github.com/smmdhaqu/Regression-Analysis-Matlab"
+    }
+  },
+  {
+    "name": "DataForge: Dynamic Query and Workflow Engine",
+    "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows, and dynamic query handling with JSPs and servlets.",
+    "image": "Image_Database",
+    "category": "academic_project",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/smmdhaqu/Project-Databases"
+    }
   }
 ]

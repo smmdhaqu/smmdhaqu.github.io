@@ -52,7 +52,7 @@
   {
     "name": "Autonomous-Driving",
     "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
-    "image": "ImageMini",
+    "image": "AutonomousDriving",
     "category": "professional_project",
     "links": {
       "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",

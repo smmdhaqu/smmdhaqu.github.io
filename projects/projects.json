@@ -51,8 +51,8 @@
   },
   {
     "name": "Autonomous-Driving",
-    "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality, and Hardware-in-the-Loop testing featuring a GUI and MQTT/OPC UA protocols for the Project Mini-ELLA.",
-    "image": "Image_Mini",
+    "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
+    "image": "ImageMini",
     "category": "professional_project",
     "links": {
       "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",
@@ -61,7 +61,7 @@
   },
   {
     "name": "EnergyWise: Consumption and Cost Analyzer",
-    "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management, structured Data handling, and scalable multi-household features.",
+    "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management.",
     "image": "Image_C++",
     "category": "academic_project",
     "links": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Funding Platform",
-    "desc": "Comprehensive Project Funding platform prototype developed as part of a Software Engineering project, featuring end-to-end functionalities including funding requests, project discovery, secure donations, and lifecycle management using rigorous validation and domain-driven design principles.",
+    "desc": "Comprehensive Project Funding platform prototype developed as part of a Software Engineering project, featuring end-to-end functionalities.",
     "image": "View_Software Engineering",
     "category": "academic_project",
     "links": {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Regression Analysis",
-    "desc": "Developed two Regression Model functions to linearize complex equations and predict values and accuracy of both Models for various materials using Data-driven approaches",
+    "desc": "Developed two Regression Model functions to linearize complex equations and predict values and accuracy of both Models.",
     "image": "Image_Regression Analysis",
     "category": "academic_project",
     "links": {
@@ -91,7 +91,7 @@
   },
   {
     "name": "DataForge: Dynamic Query and Workflow Engine",
-    "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows, and dynamic query handling with JSPs and servlets.",
+    "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows.",
     "image": "ImageDB",
     "category": "academic_project",
     "links": {

@@ -1,6 +1,6 @@
 [{
   "name": "Autonomous-Driving",
-  "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
+  "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2.",
   "image": "AutonomousDriving",
   "category": "professional_project",
   "links": {
@@ -20,7 +20,7 @@
 },
 {
   "name": "EnergyWise: Consumption and Cost Analyzer",
-  "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management.",
+  "desc": "Implemented an OOP-based C++ application to calculate and analyze household...",
   "image": "Image_C++",
   "category": "academic_project",
   "links": {
@@ -50,7 +50,7 @@
 },
 {
   "name": "DataForge: Dynamic Query and Workflow Engine",
-  "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows.",
+  "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 DB Schemas.",
   "image": "DataForge",
   "category": "academic_project",
   "links": {

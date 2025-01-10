@@ -1,14 +1,63 @@
-[
-  {
-    "name": "TourDay",
-    "desc": "Tourday is a platform where people can showcase their tours, share information & experiences.",
-    "image": "Tourday",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/smmdhaqu/TourDay"
-    }
-  },
+[{
+  "name": "Autonomous-Driving",
+  "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
+  "image": "AutonomousDriving",
+  "category": "professional_project",
+  "links": {
+    "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",
+    "code": "https://github.com/smmdhaqu/Autonomous-Driving"
+  }
+},
+{
+  "name": "Motion-Primitive-Simulation",
+  "desc": "The complete set of codes employed in my Bachelor's Thesis is available in this repository.",
+  "image": "Simulation",
+  "category": "ai",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"
+  }
+},
+{
+  "name": "EnergyWise: Consumption and Cost Analyzer",
+  "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management.",
+  "image": "Image_C++",
+  "category": "academic_project",
+  "links": {
+    "view": "https://drive.google.com/file/d/1se70I0RvB0exz_IBpyCGez81RD01uNH-/",
+    "code": "https://github.com/smmdhaqu/CALCULATION-OF-AVERAGE-POWER-COSTS-FOR-A-HOUSE-OPP"
+  }
+},
+{
+  "name": "Funding Platform",
+  "desc": "Comprehensive Project Funding platform prototype developed as part of a Software Engineering project, featuring end-to-end functionalities.",
+  "image": "View_Software Engineering",
+  "category": "academic_project",
+  "links": {
+    "view": "https://drive.google.com/file/d/1ddlj3xnKHKnZJ7Y8SSZXyS8Jbz5gZI8s/",
+    "code": "https://github.com/smmdhaqu/Project-Funding-Platform"
+  }
+},
+{
+  "name": "Regression Analysis",
+  "desc": "Developed two Regression Model functions to linearize complex equations and predict values and accuracy of both Models.",
+  "image": "Image_Regression Analysis",
+  "category": "academic_project",
+  "links": {
+    "view": "https://drive.google.com/file/d/1HXQm38DWi3g43cDhwt1XpanhXlgnujM5/",
+    "code": "https://github.com/smmdhaqu/Regression-Analysis-Matlab"
+  }
+},
+{
+  "name": "DataForge: Dynamic Query and Workflow Engine",
+  "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows.",
+  "image": "DataForge",
+  "category": "academic_project",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/smmdhaqu/Project-Databases"
+  }
+},
   {
     "name": "Tic Tac Toe",
     "desc": "This is a Tic Tac Toe game Using minimax algorithm. This game playing two player one player is a Human and one player is a computer.",
@@ -17,16 +66,6 @@
     "links": {
       "view": "https://smmdhaqu.github.io/TicTacToe/",
       "code": "https://github.com/smmdhaqu/TicTacToe"
-    }
-  },
-  {
-    "name": "StudentDatabase",
-    "desc": "Simple database website for Student. Easily store student information.",
-    "image": "StudentDatabase",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/smmdhaqu/StudentDatabase"
     }
   },
   {
@@ -40,63 +79,24 @@
     }
   },
   {
-    "name": "Autonomous-Driving",
-    "desc": "Developed advanced Data recording processes for Inland Navigation with ROS2, integrating real-time Data collection, Python-driven optimization for Data quality",
-    "image": "AutonomousDriving",
-    "category": "professional_project",
-    "links": {
-      "view": "https://drive.google.com/drive/folders/1V0D77lhG93R69BZ5eKWn7DSxgonoeOFT",
-      "code": "https://github.com/smmdhaqu/Autonomous-Driving"
-    }
-  },
-  {
-    "name": "Motion-Primitive-Simulation",
-    "desc": "The complete set of codes employed in my Bachelor's Thesis is available in this repository.",
-    "image": "Simulation",
-    "category": "ai",
+    "name": "StudentDatabase",
+    "desc": "Simple database website for Student. Easily store student information.",
+    "image": "StudentDatabase",
+    "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/smmdhaqu/Motion-Primitive-Simulation"
+      "code": "https://github.com/smmdhaqu/StudentDatabase"
     }
   },
   {
-    "name": "EnergyWise: Consumption and Cost Analyzer",
-    "desc": "Implemented an OOP-based C++ application to calculate and analyze household energy consumption and costs, utilizing dynamic memory management.",
-    "image": "Image_C++",
-    "category": "academic_project",
-    "links": {
-      "view": "https://drive.google.com/file/d/1se70I0RvB0exz_IBpyCGez81RD01uNH-/",
-      "code": "https://github.com/smmdhaqu/CALCULATION-OF-AVERAGE-POWER-COSTS-FOR-A-HOUSE-OPP"
-    }
-  },
-  {
-    "name": "Funding Platform",
-    "desc": "Comprehensive Project Funding platform prototype developed as part of a Software Engineering project, featuring end-to-end functionalities.",
-    "image": "View_Software Engineering",
-    "category": "academic_project",
-    "links": {
-      "view": "https://drive.google.com/file/d/1ddlj3xnKHKnZJ7Y8SSZXyS8Jbz5gZI8s/",
-      "code": "https://github.com/smmdhaqu/Project-Funding-Platform"
-    }
-  },
-  {
-    "name": "Regression Analysis",
-    "desc": "Developed two Regression Model functions to linearize complex equations and predict values and accuracy of both Models.",
-    "image": "Image_Regression Analysis",
-    "category": "academic_project",
-    "links": {
-      "view": "https://drive.google.com/file/d/1HXQm38DWi3g43cDhwt1XpanhXlgnujM5/",
-      "code": "https://github.com/smmdhaqu/Regression-Analysis-Matlab"
-    }
-  },
-  {
-    "name": "DataForge: Dynamic Query and Workflow Engine",
-    "desc": "Designed and developed a high-performance Web Application leveraging optimized IBM DB2 Database Schemas, Automated Workflows.",
-    "image": "DataForge",
-    "category": "academic_project",
+    "name": "TourDay",
+    "desc": "Tourday is a platform where people can showcase their tours, share information & experiences.",
+    "image": "Tourday",
+    "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/smmdhaqu/Project-Databases"
+      "code": "https://github.com/smmdhaqu/TourDay"
     }
   }
+  
 ]
